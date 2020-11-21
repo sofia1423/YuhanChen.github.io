@@ -1,4 +1,4 @@
-It includes most of the datasets applied in the paper "Association of Aerobic Glycolysis with the Structural Connectome Reveals a Benefit-Risk Balancing Mechanism in the Human Brain".
+Here are the datasets applied in the paper "Association of Aerobic Glycolysis with the Structural Connectome Reveals a Benefit-Risk Balancing Mechanism in the Human Brain".
 
 1 The human functional network is contained in the file named "human_fc.mat".
 
